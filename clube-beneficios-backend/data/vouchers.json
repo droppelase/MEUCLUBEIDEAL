@@ -1,0 +1,42 @@
+[
+    {
+        "id": 7,
+        "parceiro": "Empresa Y",
+        "descricao": "10% de desconto",
+        "validade": "2025-03-31",
+        "codigo": "TESTE123",
+        "imagem": ""
+    },
+    {
+        "id": 8,
+        "parceiro": "Empresa Y",
+        "descricao": "TESTE METRICA",
+        "validade": "2025-04-01",
+        "codigo": "CODIGO",
+        "imagem": ""
+    },
+    {
+        "id": 9,
+        "parceiro": "Restaurante G",
+        "descricao": "10% de desconto ",
+        "validade": "2025-04-17",
+        "codigo": "SEGUNDA ",
+        "imagem": ""
+    },
+    {
+        "id": 10,
+        "parceiro": "Restaurante G",
+        "descricao": "teste",
+        "validade": "2025-04-25",
+        "codigo": "TESTENOVO",
+        "imagem": ""
+    },
+    {
+        "id": 11,
+        "parceiro": "Empresa Y",
+        "descricao": "teste agora",
+        "validade": "2025-04-24",
+        "codigo": "CODIGOOO",
+        "imagem": ""
+    }
+]

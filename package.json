@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@builder.io/react": "^8.0.12",
+    "jsqr": "^1.4.0",
+    "qrcode.react": "^4.2.0",
+    "react-qr-reader": "^3.0.0-beta-1"
+  }
+}

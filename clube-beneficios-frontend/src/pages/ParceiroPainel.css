@@ -1,0 +1,73 @@
+.parceiro-panel {
+    padding: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .parceiro-panel h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .parceiro-panel button {
+    padding: 10px 20px;
+    width: 100%;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    -webkit-border-radius: 4px; /* Adiciona prefixo para Safari */
+    -moz-border-radius: 4px; /* Adiciona prefixo para Firefox */
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .parceiro-panel button:hover {
+    background-color: #0056b3;
+  }
+  
+  .parceiro-panel .video-container {
+    position: relative;
+    width: 100%;
+    height: 300px; /* Ajuste a altura conforme necessário */
+    overflow: hidden;
+    margin-bottom: 20px; /* Adiciona espaço abaixo do vídeo */
+  }
+  
+  .parceiro-panel .video-container video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .parceiro-panel p {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .parceiro-panel input[type="text"],
+  .parceiro-panel input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 4px; /* Adiciona prefixo para Safari */
+    -moz-border-radius: 4px; /* Adiciona prefixo para Firefox */
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .parceiro-panel .validar-button {
+    background-color: #4CAF50;
+  }
+  
+  .parceiro-panel .validar-button:hover {
+    background-color: #367c39;
+  }
+  
+  .parceiro-panel .mensagem-erro {
+    color: red;
+    margin-top: 15px;
+    text-align: center;
+  }
+  

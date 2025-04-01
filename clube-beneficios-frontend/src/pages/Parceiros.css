@@ -1,0 +1,80 @@
+/* Adicionando uma tabela mais limpa */
+.table-parceiros {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .table-parceiros th,
+  .table-parceiros td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .table-parceiros th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .table-parceiros tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .table-parceiros tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Estilo para os botões de editar/excluir */
+  .button {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .button-danger {
+    background-color: #dc3545;
+  }
+  
+  .button-danger:hover {
+    background-color: #c82333;
+  }
+  
+  /* Estilo do card de adicionar parceiro */
+  .add-parceiro-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .add-parceiro-card input {
+    padding: 10px;
+    width: 250px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .add-parceiro-card button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-parceiro-card button:hover {
+    background-color: #218838;
+  }
+  

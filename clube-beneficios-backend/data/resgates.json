@@ -1,0 +1,156 @@
+[
+    {
+        "email": "joao@email.com",
+        "voucher_id": 1,
+        "data_hora": "2025-03-25T14:58:41.310215"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 4,
+        "data_hora": "2025-03-25T15:35:41.934089"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 3,
+        "data_hora": "2025-03-25T16:14:37.279761"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 1,
+        "data_hora": "2025-03-25T16:20:45.564501"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 2,
+        "data_hora": "2025-03-25T16:36:48.197995"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 3,
+        "data_hora": "2025-03-25T16:51:00.323841"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 1,
+        "data_hora": "2025-03-25T17:27:52.982808"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 1,
+        "data_hora": "2025-03-25T18:34:13.344619"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 1,
+        "data_hora": "2025-03-26T12:40:22.503150"
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 2,
+        "data_hora": "2025-03-26T15:52:46.242719"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 3,
+        "data_hora": "2025-03-26T16:13:33.347950"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 3,
+        "data_hora": "2025-03-26T16:13:43.591182"
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 5,
+        "data_hora": "2025-03-26T18:16:33.943652",
+        "codigo": "cb43b4de-a9ab-47d2-b093-c38ab5489f69",
+        "usado": false
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 6,
+        "data_hora": "2025-03-27T09:08:30.757689",
+        "codigo": "b41d2c12-7443-47d1-8430-39d08c2c082e",
+        "usado": false
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 6,
+        "data_hora": "2025-03-27T09:11:22.668164",
+        "codigo": "c04f7b91-8f65-4ba7-bf1e-319207449655",
+        "usado": false
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 5,
+        "data_hora": "2025-03-27T09:21:35.960934",
+        "codigo": "03b9de58-4476-4942-8de0-7cdbf4e87ec6",
+        "usado": false
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 4,
+        "data_hora": "2025-03-27T09:33:07.880790",
+        "codigo": "d6a367ff-06fd-40ce-a4b8-64c34223b043",
+        "usado": true
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 3,
+        "data_hora": "2025-03-27T09:54:57.202212",
+        "codigo": "95320730-ae2b-4e7f-b772-bba2800fd6b0",
+        "usado": true
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 1,
+        "data_hora": "2025-03-27T10:14:56.775624",
+        "codigo": "e06cbc7c-94ab-4666-93a4-4652638da0bb",
+        "usado": true
+    },
+    {
+        "email": "joao@email.com",
+        "voucher_id": 7,
+        "data_hora": "2025-03-28T09:08:06.940100",
+        "codigo": "9caef737-ebe6-4e86-a37e-36dfe6a2f8ca",
+        "usado": true
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 7,
+        "data_hora": "2025-03-28T12:12:48.064294",
+        "codigo": "8bf2e185-a97d-4b64-8520-661d51275000",
+        "usado": true
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 8,
+        "data_hora": "2025-03-28T12:18:07.247750",
+        "codigo": "b20e8553-fda6-49d8-b398-ce99b9cd8d8c",
+        "usado": true
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 9,
+        "data_hora": "2025-03-31T10:52:15.800490",
+        "codigo": "8e29d5a1-8d52-4518-824c-abf7f729102e",
+        "usado": false
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 10,
+        "data_hora": "2025-04-01T09:47:38.400475",
+        "codigo": "c7411881-e8b2-4476-bff5-6149a5852f31",
+        "usado": false,
+        "parceiro": "Restaurante G"
+    },
+    {
+        "email": "teste@teste.com",
+        "voucher_id": 11,
+        "data_hora": "2025-04-01T10:04:58.228801",
+        "codigo": "a36c4025-a8a5-4140-bbf9-8dd48721c9b0",
+        "usado": false,
+        "parceiro": "Empresa Y",
+        "valido_ate": "2025-04-02T10:04:58.228801"
+    }
+]

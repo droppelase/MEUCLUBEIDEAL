@@ -1,0 +1,56 @@
+/* Ajustes para o container do formulário */
+.form-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 100%;
+  }
+  
+  /* Estilos dos campos de input */
+  .form-container select,
+  .form-container input[type="text"],
+  .form-container input[type="date"],
+  .form-container input[type="file"] {
+    width: 100%; /* Garantir que todos os campos se ajustem ao tamanho do container */
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo especial para o campo de upload de arquivos */
+  .form-container input[type="file"] {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+  }
+  
+  /* Estilo de foco nos campos de texto */
+  .form-container input[type="text"]:focus,
+  .form-container input[type="date"]:focus,
+  .form-container select:focus,
+  .form-container input[type="file"]:focus {
+    outline: none;
+    border-color: #4CAF50;
+  }
+  
+  /* Estilo do botão de envio */
+  .form-container button {
+    width: 100%;
+    padding: 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background-color: #0056b3;
+  }
+  

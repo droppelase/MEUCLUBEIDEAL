@@ -1,0 +1,87 @@
+/* Garantir que o login seja centralizado na tela */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f7f7f7;  /* Cor de fundo suave */
+  }
+  
+  .login-form {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px; /* Definir largura máxima */
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Estilizando os campos de input */
+  input[type="text"], input[type="password"], input[type="email"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box; /* Para garantir que o padding seja incluído no tamanho total */
+    transition: border-color 0.3s ease;
+  }
+  
+  input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus {
+    border-color: #5cb85c; /* Mudando a borda para verde ao focar */
+    outline: none;
+  }
+  
+  /* Botão de login */
+  button {
+    width: 100%;
+    padding: 12px;
+    background-color: #28a745; /* Cor do botão */
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #218838; /* Tom mais escuro ao passar o mouse */
+  }
+  
+  /* Estilizando mensagens de erro/sucesso */
+  p.mensagem {
+    color: green;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  p.mensagemErro {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  /* Link de cadastro */
+  a {
+    text-decoration: none;
+    color: #28a745;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
